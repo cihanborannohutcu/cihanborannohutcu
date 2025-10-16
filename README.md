@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Cihan Boran Nohutcu
 
-![Profile Image](https://github.com/user-attachments/assets/d86517ec-2be8-449d-b6d2-18293b501c45)
+<img src="https://github.com/user-attachments/assets/d86517ec-2be8-449d-b6d2-18293b501c45" width="150" height="150" style="border-radius:50%;">
 
 **Mechanical Engineering Student | AI Enthusiast**
 
@@ -22,5 +22,5 @@ I aim to combine analytical thinking with technical expertise to solve complex p
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cborann)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cihannohutcu)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CihanBoranNohutcu)
